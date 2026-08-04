@@ -13,7 +13,9 @@ An embedded systems implementation of Google's Chrome Dino game, developed on an
 
 ## 🎥 Project Preview
 
-![Gameplay Demo](images/game_preview.gif)
+<p align="center">
+  <img src="images/game_preview.gif" width="700">
+</p>
 
 🔊 **Full Demonstration (with audio):**
 https://youtu.be/i6w-xwKN6Ec
@@ -103,7 +105,7 @@ Game assets are implemented using custom LCD characters, while user settings and
 - Jumper Wires
 
 <p align="center">
-  <img src="images/hardware_setup.jpg" width="700">
+  <img src="images/hardware_setup.jpeg" width="700">
 </p>
 
 ---
