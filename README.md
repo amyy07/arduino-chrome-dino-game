@@ -32,35 +32,21 @@ https://youtu.be/i6w-xwKN6Ec
 
 ---
 
-## Key Features
-
 ## Features
 
-✅ Chrome Dino gameplay
-
-✅ Four selectable characters
-
-✅ Four themed maps
-
-✅ Three difficulty levels
-
-✅ EEPROM high-score storage
-
-✅ EEPROM settings storage
-
-✅ Animated LCD sprites
-
-✅ Random obstacle generation
-
-✅ Progressive difficulty scaling
-
-✅ Pause system
-
-✅ Countdown before gameplay
-
-✅ Sound effects
-
-✅ Three-button menu navigation
+- Chrome Dino gameplay
+- Four selectable characters
+- Four themed maps
+- Three difficulty levels
+- EEPROM high-score storage
+- EEPROM settings storage
+- Animated LCD sprites
+- Random obstacle generation
+- Progressive difficulty scaling
+- Pause system
+- Countdown before gameplay
+- Sound effects
+- Three-button menu navigation
 
 
 ### Gameplay
