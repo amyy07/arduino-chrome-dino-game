@@ -9,8 +9,6 @@ An embedded systems implementation of Google's Chrome Dino game, developed on an
 
 > **Developed as a personal embedded systems project to strengthen C++ programming, embedded software design, and hardware interfacing skills.**
 
----
-
 ## 🎥 Project Preview
 
 <p align="center">
@@ -19,8 +17,6 @@ An embedded systems implementation of Google's Chrome Dino game, developed on an
 
 🔊 **Full Demonstration (with audio):**
 https://youtu.be/i6w-xwKN6Ec
-
----
 
 ## Project Highlights
 
@@ -50,8 +46,7 @@ https://youtu.be/i6w-xwKN6Ec
 - Sound effects
 - Three-button menu navigation
 
-
-### Gameplay
+## Gameplay
 
 - Chrome Dino-inspired gameplay
 - Jump mechanics
@@ -76,7 +71,7 @@ The software is structured as a finite state machine with dedicated states for:
 
 Game assets are implemented using custom LCD characters, while user settings and high scores are stored in EEPROM to provide persistent storage between power cycles.
 
-### User Interface
+## User Interface
 
 - Main menu
 - Character selection
@@ -86,14 +81,12 @@ Game assets are implemented using custom LCD characters, while user settings and
 - Sound feedback
 - Animated sprites
 
-### Persistent Storage
+## Persistent Storage
 
 - High score saved using EEPROM
 - Character selection saved
 - Map selection saved
 - Difficulty saved
-
----
 
 ## Hardware Used
 
@@ -143,6 +136,16 @@ Game assets are implemented using custom LCD characters, while user settings and
 
 ---
 
+## Controls
+
+| Button | Function |
+|---------|----------|
+| Up | Jump / Navigate Up |
+| Down | Navigate Down |
+| Select | Confirm Selection / Pause |
+
+---
+
 ## Engineering Skills Demonstrated
 
 - Embedded C++ programming
@@ -156,7 +159,6 @@ Game assets are implemented using custom LCD characters, while user settings and
 - Real-time game logic
 - Debugging and iterative development
 
----
 
 ## Challenges Solved
 
@@ -170,17 +172,6 @@ During development I encountered and solved several engineering challenges, incl
 - Debugging button input timing and jump mechanics.
 - Organising the software into a scalable state-machine architecture.
 
----
-
-## Controls
-
-| Button | Function |
-|---------|----------|
-| Up | Jump / Navigate Up |
-| Down | Navigate Down |
-| Select | Confirm Selection / Pause |
-
----
 
 ## Future Improvements
 
@@ -191,10 +182,9 @@ During development I encountered and solved several engineering challenges, incl
 - ESP32 version with online leaderboard
 - Battery-powered handheld version
 
----
 
 ## What was learned
 
 This project strengthened my understanding of embedded systems by combining hardware design with software development. It improved my ability to design structured embedded software, debug hardware/software interactions, implement persistent memory using EEPROM and optimise user interaction on resource-constrained hardware.
 
----
+
