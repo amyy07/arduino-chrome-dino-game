@@ -112,19 +112,19 @@ Game assets are implemented using custom LCD characters, while user settings and
 
 ```text
           ┌─────────────┐
-          │ Push Buttons    │
+          │ Push Buttons│
           └──────┬──────┘
-                   │
-                   ▼
+                 │
+                 ▼
          ┌────────────────┐
-         │     Arduino Uno     │
-         │    (ATmega328P)     │
+         │  Arduino Uno   │
+         │ (ATmega328P)   │
          └───┬────────┬───┘
-              │          │
-        I²C   │          │ Digital
-             ▼           ▼
+             │        │
+        I²C  │        │ Digital
+             ▼        ▼
       ┌──────────┐ ┌────────┐
-      │  16×2 LCD   │ │  Buzzer  │
+      │ 16×2 LCD │ │ Buzzer │
       └──────────┘ └────────┘
              │
              ▼
