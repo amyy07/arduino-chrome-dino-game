@@ -170,7 +170,6 @@ During development I encountered and solved several engineering challenges, incl
 - Designing reusable sprite loading for multiple characters and maps.
 - Balancing gameplay by tuning obstacle timing and speed progression.
 - Debugging button input timing and jump mechanics.
-- Organising the software into a scalable state-machine architecture.
 
 
 ## Future Improvements
