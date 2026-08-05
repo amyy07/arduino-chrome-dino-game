@@ -59,17 +59,9 @@ https://youtu.be/i6w-xwKN6Ec
 
 ## Technical Implementation
 
-The software is structured as a finite state machine with dedicated states for:
+The game is organised using a finite state machine (FSM), allowing the software to transition between menus, gameplay and game over based on user input and game events. This modular structure simplifies navigation and makes the project easier to maintain and extend.
 
-- Main Menu
-- Character Selection
-- Map Selection
-- Difficulty Selection
-- Gameplay
-- Pause
-- Game Over
-
-Game assets are implemented using custom LCD characters, while user settings and high scores are stored in EEPROM to provide persistent storage between power cycles.
+Custom LCD characters are used for animated characters and obstacles, while EEPROM provides persistent storage for the player's settings and high score.
 
 ## User Interface
 
